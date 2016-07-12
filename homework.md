@@ -10,3 +10,19 @@
 	- [Introduction to Strings](https://rubymonk.com/learning/books/1-ruby-primer/chapters/5-strings/lessons/7-string-introduction)
 	
 - - - -
+
+## Class 2 - Ruby Loops, Arrays and Control Flow
+
+###**Due on 7/13/2016:**
+
+- Complete the following 2 Ruby Monk assignments and upload a screenshot on slack:
+	- [Conditions and Loops: Control Structures in Ruby](https://rubymonk.com/learning/books/1-ruby-primer/chapters/8-control-structures/lessons/43-boolean-expressions-in-ruby) 
+	- [Arrays in Ruby](https://rubymonk.com/learning/books/1-ruby-primer/chapters/1-arrays/lessons/2-arrays-introduction)
+
+ 
+ ###**Due on 7/18/2016:**
+ 
+- Work with your partner to Create a Game of Rock Paper Scissors in Ruby
+	- The instructions can be found [here](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/RPS_instructions.md) 
+
+- - - -
