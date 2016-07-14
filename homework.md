@@ -25,3 +25,14 @@
 	- The instructions can be found [here](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/RPS_instructions.md) 
 
 - - - -
+
+## Class 3 - Git, GitHub and Ruby Methods
+
+###**Due on 7/18/2016** 
+
+- Complete the [Tip Calculator Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/tip_calculator_challenge.md)
+	- Submit your answers on GitHub
+	- To avoid naming conflicts, please name the project after you and your partners initials (ie: nw_ap_tip_calculator)
+- Complete the [Intro to Git](https://try.github.io/levels/1/challenges/1) web challenge and submit the screenshot on slack
+- Read [The Simple Git Guide](http://rogerdudler.github.io/git-guide/)
+- Read up on Ruby Methods [here](http://ruby.bastardsbook.com/chapters/methods/)
