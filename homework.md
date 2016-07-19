@@ -40,7 +40,7 @@
 
 - - - - 
 
-Class 4 - Hashes, Classes and Object Orientation
+## Class 4 - Hashes, Classes and Object Orientation
 
 ###**Due on 7/20/2016** 
 
