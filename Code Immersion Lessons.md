@@ -8,3 +8,7 @@
 [Control Flow, Loops, Arrays](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-control-flow-and-data-types-229-262-358?token=WMC7FOCk)
 
 [Git, GitHub and Ruby Methods](http://techtalentsouth.slides.com/techtalentsouth/pop-up-code-git-and-github-210-360?token=Al3rY1gs)
+
+[Hashes and Classes Slides](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-classes-and-objects-255-257?token=JoY_sMT7)
+
+[Classes (Person & Superhero)](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/classes_and_object_orientation.md)
