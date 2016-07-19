@@ -36,3 +36,22 @@
 - Complete the [Intro to Git](https://try.github.io/levels/1/challenges/1) web challenge and submit the screenshot on slack
 - Read [The Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 - Read up on Ruby Methods [here](http://ruby.bastardsbook.com/chapters/methods/)
+
+
+- - - - 
+
+Class 4 - Hashes, Classes and Object Orientation
+
+###**Due on 7/20/2016** 
+
+- Complete the following Ruby Monk Challenges (upload the screenshots to slack)
+	- [Hashes in Ruby](https://rubymonk.com/learning/books/1-ruby-primer/chapters/10-hashes-in-ruby/lessons/46-introduction-to-ruby-hashes)
+	- [Classes and Object Oriented Programming in Ruby](https://rubymonk.com/learning/books/1-ruby-primer/chapters/7-classes/lessons/39-classes)
+	 
+###**Due on 7/25/2016** 
+
+Work with your partner(s) to create an Inventory Program
+- Instructions can be found [here](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/inventory_assignment.md)
+- *note: follow the same naming convetions used for Rock, Paper, Scissors.* 
+	- *Prefix all teammates initials to the repo name*
+	- *ie: aw_dh_inventory*
