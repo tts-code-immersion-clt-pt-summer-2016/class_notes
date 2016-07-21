@@ -55,3 +55,17 @@ Work with your partner(s) to create an Inventory Program
 - *note: follow the same naming convetions used for Rock, Paper, Scissors.* 
 	- *Prefix all teammates initials to the repo name*
 	- *ie: aw_dh_inventory*
+	
+- - - -
+
+## Class 5 - Test Driven Development, Ruby Blocks and Procs
+
+###**Due on 7/25/16**
+
+- Complete the remaining Ruby Monk Challenges
+  - [Introduction to Ruby Methods](https://rubymonk.com/learning/books/1-ruby-primer/chapters/19-ruby-methods/lessons/57-being-methodical)
+  - [Introduction to Lambdas and Blocks](https://rubymonk.com/learning/books/1-ruby-primer/chapters/34-lambdas-and-blocks-in-ruby/lessons/77-lambdas-in-ruby)
+  - [Introduction to Modules](https://rubymonk.com/learning/books/1-ruby-primer/chapters/35-modules/lessons/79-getting-modular)
+  - [Introduction to IO](https://rubymonk.com/learning/books/1-ruby-primer/chapters/42-introduction-to-i-o/lessons/89-streams)
+- Complete the 02_calculator challenge in the [Learn Ruby Test Suite](https://github.com/tts-code-immersion-clt-pt-summer-2016/learn_ruby)
+- Read [this](http://mixandgo.com/blog/mastering-ruby-blocks-in-less-than-5-minutes) article
