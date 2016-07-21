@@ -12,3 +12,5 @@
 [Hashes and Classes Slides](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-classes-and-objects-255-257?token=JoY_sMT7)
 
 [Classes (Person & Superhero)](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/classes_and_object_orientation.md)
+
+[Ruby Blocks and Procs](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/blocks_and_procs.md)
