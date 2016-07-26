@@ -14,3 +14,9 @@
 [Classes (Person & Superhero)](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/classes_and_object_orientation.md)
 
 [Ruby Blocks and Procs](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/blocks_and_procs.md)
+
+- - - -
+
+## Front End
+
+[Intro to HTML](http://techtalentsouth.slides.com/techtalentsouth/deck?token=uXxLjxrT)
