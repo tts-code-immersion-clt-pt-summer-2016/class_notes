@@ -69,3 +69,20 @@ Work with your partner(s) to create an Inventory Program
   - [Introduction to IO](https://rubymonk.com/learning/books/1-ruby-primer/chapters/42-introduction-to-i-o/lessons/89-streams)
 - Complete the 02_calculator challenge in the [Learn Ruby Test Suite](https://github.com/tts-code-immersion-clt-pt-summer-2016/learn_ruby)
 - Read [this](http://mixandgo.com/blog/mastering-ruby-blocks-in-less-than-5-minutes) article
+
+- - - -
+
+## Class 6 - Intro to HTML
+
+###**Due on 7/27/16**
+
+- Complete the first module of [Front End Foundations](https://www.codeschool.com/courses/front-end-foundations) at CodeSchool
+
+###**Due on 8/1/16**
+
+- Work up to challenge 38 (Give a Background Color to a Div Element) of the [Intro to HTML/CSS challenges](https://www.freecodecamp.com/challenges/say-hello-to-html-elements) at Free Code Camp
+
+Upload screenshots of your work on Slack. 
+
+- - - -
+
