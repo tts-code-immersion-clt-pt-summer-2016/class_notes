@@ -2,7 +2,7 @@
 
 ###**Due on 7/11/2016:**
 
-- Complete the [height to centimeters challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/homework/blob/master/homework_and_challenges/height_to_centimeters_challenge.md) and turn in the finished code
+- Complete the [height to centimeters challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/homework_and_challenges/height_to_centimeters_challenge.md#challenge---height-to-centimeters) and turn in the finished code
 - Sign up for the [TTS Slack Channel](http://ttsclt.slack.com)
 - Send me (in slack) your GitHub username
 - Complete the following 2 Ruby Monk assignments and upload a screenshot on slack:<br>*note: the screenshot can be loaded in our group slack channel or through direct message.*
@@ -30,7 +30,7 @@
 
 ###**Due on 7/18/2016**
 
-- Complete the [Tip Calculator Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/homework/blob/master/homework_and_challanges/tip_calculator_challenge.md)
+- Complete the [Tip Calculator Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/homework_and_challenges/tip_calculator_challenge.md#create-a-tip-calculator)
 	- Submit your answers on GitHub
 	- To avoid naming conflicts, please name the project after you and your partners initials (ie: nw_ap_tip_calculator)
 - Complete the [Intro to Git](https://try.github.io/levels/1/challenges/1) web challenge and submit the screenshot on slack
@@ -51,7 +51,7 @@
 ###**Due on 7/25/2016**
 
 Work with your partner(s) to create an Inventory Program
-- Instructions can be found [here](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/homework/blob/master/homework_and_challenges/inventory_assignment.md)
+- Instructions can be found [here](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/homework_and_challenges/inventory_assignment.md)
 - *note: follow the same naming convetions used for Rock, Paper, Scissors.*
 	- *Prefix all teammates initials to the repo name*
 	- *ie: aw_dh_inventory*
