@@ -40,7 +40,7 @@ At this point, it's a good idea to run the program and use `puts` to log the use
 - You'll need to use branching/control-flow and prepare for several differnt outcomes
 - See below for the various outcomes that are possible:
 
-<center>![](images/rockpaper_web.jpg)</center>
+<center>![](../images/rockpaper_web.jpg)</center>
 
 - Print both choices and declare the winner
 	
