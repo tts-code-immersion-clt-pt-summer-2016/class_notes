@@ -21,6 +21,6 @@
 
 [Intro to HTML](http://techtalentsouth.slides.com/techtalentsouth/deck?token=uXxLjxrT)
 
-[Intro to CSS Slides]()
+[Intro to CSS Slides](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-intro-to-css-280?token=SYOsgJPr)
 
 [Build a Form Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/front-end/build_a_form_with_css_challenges.md#css-challenge---create-a-nice-looking-signup-form)
