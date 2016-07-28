@@ -85,3 +85,16 @@ Work with your partner(s) to create an Inventory Program
 Upload screenshots of your work on Slack.
 
 - - - -
+
+## Class 7 - Intro to CSS
+
+###**Due 8/1/16**
+
+- Complete the [Build a Form with CSS Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/front-end/build_a_form_with_css_challenges.md#css-challenge---create-a-nice-looking-signup-form)
+	- Drivers: upload the challenge to GitHub with the naming convention `form_challenge_YOUR_TEAMS_INTIALS_HERE`
+	- Navigators: *clone* the project and *create* a new branch
+	- Both teammates will need to complete the project (individually) and push to your branch on GitHub 
+- Complete the [Google HomePage Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/homework_and_challenges/clone_google_challenge.md#build-a-clone-of-the-google-homepage) 
+	- Push the code to GitHub using the name `google_challenge_YOUR_INITIALS_HERE`
+	- Upload a link to the repo and a screenshot to slack
+
