@@ -121,3 +121,17 @@ Upload screenshots of your work on Slack.
 		- [Color Pallete Helper](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 	- Push the code to *your personal* GitHub Account
 	- Send a direct message (in slack) with a link to your repo
+	
+- - - - 
+
+## Class 9 - Intro to JavaScript
+
+###**Due 8/10/16
+
+- Read [JavaScript for Cats](http://jsforcats.com/) in full and follow along with the exercises 
+- Complete the [JS Tip Calculator Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/front-end/introToJavascript.md#challenge-3-tip-calculator)
+	- Push your completed code to GitHub using the naming convention `tip_calc_js_YOUR_INTIALS_HERE`
+- Complete the entire [Try jQuery](http://try.jquery.com/) course at [CodeSchool](https://www.codeschool.com/)
+	- The full course is free
+	- upload a finished screenshot to slack
+
