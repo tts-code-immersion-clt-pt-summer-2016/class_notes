@@ -126,7 +126,7 @@ Upload screenshots of your work on Slack.
 
 ## Class 9 - Intro to JavaScript
 
-###**Due 8/10/16
+###**Due 8/10/16**
 
 - Read [JavaScript for Cats](http://jsforcats.com/) in full and follow along with the exercises 
 - Complete the [JS Tip Calculator Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/front-end/introToJavascript.md#challenge-3-tip-calculator)
