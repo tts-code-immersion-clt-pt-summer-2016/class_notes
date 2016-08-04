@@ -600,7 +600,7 @@ setTimeout(sayHi, 2000); // calls the greet function after 2 seconds
 This pattern is HEAVILY used in JS to handle asynchronous events. For example, in a web application, you might create a function and tell JS to run it when a button is clicked.
 
 
-**Challenge 3:** Tip Calculator
+### **Challenge 3:** Tip Calculator
 
 Remember that tip calculator you created in Ruby? Let's create one on JS!
 
