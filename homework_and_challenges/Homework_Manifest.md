@@ -134,4 +134,33 @@ Upload screenshots of your work on Slack.
 - Complete the entire [Try jQuery](http://try.jquery.com/) course at [CodeSchool](https://www.codeschool.com/)
 	- The full course is free
 	- upload a finished screenshot to slack
+- - - -
 
+## Class 10 - Intro to Rails
+
+###**Due 8/12/16**
+
+- Study your part of the Model View Controller Architecture
+	- Be ready to present with your team at the beginning of next class
+	- Team 1 - Describe what happens when a Tweet is posted
+	- Team 1 consists of: 
+		- Phil - model 
+		- Danielle - view 
+		- Phoebe - database
+		- Dan - controller
+	- Team 2 - Describe what happens when signing up for an account with Instagram
+	- Team 2 consists of: 
+		- Priyam - view
+		- Andre - controller
+		- Stacy - model
+	- Team 3 - Describe what happens when you like a post on Facebook
+	- Team 3 consists of: 
+		- Mike - model
+		- Gerrick - view
+		- Kevin - controller
+		- Akilah - database 
+
+###**Due 8/15/16**
+
+- Complete the [Pizza Shop](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/rails/rails_walkthrough.md) app challenges
+	- Push the completed code to our class GitHub org using the naming convention `pizza_shop_YOUR_INTIALS_HERE` 
