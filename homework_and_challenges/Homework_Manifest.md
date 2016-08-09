@@ -138,7 +138,7 @@ Upload screenshots of your work on Slack.
 
 ## Class 10 - Intro to Rails
 
-###**Due 8/12/16**
+###**Due 8/10/16**
 
 - Study your part of the Model View Controller Architecture
 	- Be ready to present with your team at the beginning of next class
