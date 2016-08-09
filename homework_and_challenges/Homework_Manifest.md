@@ -98,3 +98,40 @@ Upload screenshots of your work on Slack.
 	- Push the code to GitHub using the name `google_challenge_YOUR_INITIALS_HERE`
 	- Upload a link to the repo and a screenshot to slack
 
+- - - - 
+
+## Class 8 - Bootstrap
+
+###**Due 8/8/16**
+
+- Finish the [Good Coffee Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/front-end/bootstrap_good_coffee_challenge.md#bootstrap)
+	- Push to GitHub
+	- Use the naming convention: `good_coffee_YOUR_INITIALS_HERE`
+- Create a Portfolio Site using [Bootstrap](http://getbootstrap.com/) or [Zurb Foundation](http://foundation.zurb.com/)
+	- Don't worry about content (use *lorem ipsum* for right now)
+	- Your portfolio site should consist of at least:
+		- A Hero Image or Hero Section
+		- A section about you
+		- A section for your work
+	- Use the web to find 2 or 3 designs that you like and use them as inspiration in your project<br>
+		Some resources:
+		- [Awwwards](http://www.awwwards.com/)
+		- [Crafted By Love](http://www.craftedbylove.com/#/)
+		- [Flat Color Picker](http://www.flatuicolorpicker.com/)
+		- [Color Pallete Helper](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+	- Push the code to *your personal* GitHub Account
+	- Send a direct message (in slack) with a link to your repo
+	
+- - - - 
+
+## Class 9 - Intro to JavaScript
+
+###**Due 8/10/16**
+
+- Read [JavaScript for Cats](http://jsforcats.com/) in full and follow along with the exercises 
+- Complete the [JS Tip Calculator Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/front-end/introToJavascript.md#challenge-3-tip-calculator)
+	- Push your completed code to GitHub using the naming convention `tip_calc_js_YOUR_INTIALS_HERE`
+- Complete the entire [Try jQuery](http://try.jquery.com/) course at [CodeSchool](https://www.codeschool.com/)
+	- The full course is free
+	- upload a finished screenshot to slack
+

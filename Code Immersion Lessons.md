@@ -24,3 +24,8 @@
 [Intro to CSS Slides](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-intro-to-css-280?token=SYOsgJPr)
 
 [Build a Form Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/front-end/build_a_form_with_css_challenges.md#css-challenge---create-a-nice-looking-signup-form)
+
+[Bootstrap - Good Coffee Challenge](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/front-end/bootstrap_good_coffee_challenge.md#bootstrap)
+
+[Intro to JavaScript](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/front-end/introToJavascript.md#intro-to-javascript)
+
