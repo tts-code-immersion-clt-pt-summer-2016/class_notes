@@ -29,3 +29,10 @@
 
 [Intro to JavaScript](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/front-end/introToJavascript.md#intro-to-javascript)
 
+- - - -
+
+## Rails
+
+[MVC Intro](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/rails/mvc_intro.md)
+
+[Rails Overview - Pizza Shop](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/rails/rails_walkthrough.md)
