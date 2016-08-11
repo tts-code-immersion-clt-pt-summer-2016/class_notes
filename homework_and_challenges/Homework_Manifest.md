@@ -164,6 +164,7 @@ Upload screenshots of your work on Slack.
 
 - Complete the [Pizza Shop](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/rails/rails_walkthrough.md) app challenges
 	- Push the completed code to our class GitHub org using the naming convention `pizza_shop_YOUR_INTIALS_HERE` 
+	 
 
 - - - - 
 
