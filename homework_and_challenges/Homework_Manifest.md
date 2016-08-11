@@ -164,3 +164,12 @@ Upload screenshots of your work on Slack.
 
 - Complete the [Pizza Shop](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/rails/rails_walkthrough.md) app challenges
 	- Push the completed code to our class GitHub org using the naming convention `pizza_shop_YOUR_INTIALS_HERE` 
+
+- - - - 
+
+## Class 10 - SQL & ActiveRecord
+
+###**Due 8/15/16**
+
+- Complete the CodeSchool [TrySQL Course](https://www.codeschool.com/courses/try-sql)
+	- Upload completed screenshot to slack 
