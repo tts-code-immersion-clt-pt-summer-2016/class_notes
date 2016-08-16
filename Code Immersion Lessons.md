@@ -38,3 +38,6 @@
 [Rails Overview - Pizza Shop](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/rails/rails_walkthrough.md)
 
 [SQL & ActiveRecord](https://github.com/tts-code-immersion-clt-pt-summer-2016/class_notes/blob/master/rails/SQL%20%26%20ActiveRecord.md)
+
+[Associations in Rails](http://techtalentsouth.slides.com/techtalentsouth/atl-rails-associations-326?token=ag1SK_vt)
+
