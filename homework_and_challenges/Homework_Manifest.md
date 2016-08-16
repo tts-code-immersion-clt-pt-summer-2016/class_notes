@@ -175,7 +175,15 @@ Upload screenshots of your work on Slack.
 - Complete the CodeSchool [TrySQL Course](https://www.codeschool.com/courses/try-sql)
 	- Upload completed screenshot to slack 
 
+- - - -
+
 ## Class 11 - Twitter Part 1 - App Setup, Devise install, User Model Config and Associations
+
+###**Due 8/17/16**
+
+- Ensure that you are caught up with the current state of the Quack application
+	- Compare agains the [Master Repo](https://github.com/tts-code-immersion-clt-pt-summer-2016/quack)
+	- Clone the app and make sure you and your partner ready for Wednesday night's class
 
 ###**Due 8/24/16** 
 
