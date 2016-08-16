@@ -174,3 +174,11 @@ Upload screenshots of your work on Slack.
 
 - Complete the CodeSchool [TrySQL Course](https://www.codeschool.com/courses/try-sql)
 	- Upload completed screenshot to slack 
+
+## Class 11 - Twitter Part 1 - App Setup, Devise install, User Model Config and Associations
+
+###**Due 8/24/16** 
+
+- Complete the [Active Record Basics Course](https://teamtreehouse.com/library/activerecord-basics) at Team Treehouse 
+	- You'll need to sign up for a team treehouse account (make sure to cancel it within 7 days) 
+	- Upload a completed screenshot to Slack
