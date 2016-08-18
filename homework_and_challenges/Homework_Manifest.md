@@ -168,7 +168,7 @@ Upload screenshots of your work on Slack.
 
 - - - - 
 
-## Class 10 - SQL & ActiveRecord
+## Class 11 - SQL & ActiveRecord
 
 ###**Due 8/15/16**
 
@@ -177,7 +177,7 @@ Upload screenshots of your work on Slack.
 
 - - - -
 
-## Class 11 - Twitter Part 1 - App Setup, Devise install, User Model Config and Associations
+## Class 12 - Twitter Part 1 - App Setup, Devise install, User Model Config and Associations
 
 ###**Due 8/17/16**
 
@@ -194,7 +194,7 @@ Upload screenshots of your work on Slack.
 
 - - - - 
 
-## Class 12 - Twitter Part 2 - Explore Routing and Build Tweets Model/Controller
+## Class 13 - Twitter Part 2 - Explore Routing and Build Tweets Model/Controller
 
 ###**Due 8/29/16**
 
