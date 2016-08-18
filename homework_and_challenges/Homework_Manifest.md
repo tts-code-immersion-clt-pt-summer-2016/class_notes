@@ -190,3 +190,15 @@ Upload screenshots of your work on Slack.
 - Complete the [Active Record Basics Course](https://teamtreehouse.com/library/activerecord-basics) at Team Treehouse 
 	- You'll need to sign up for a team treehouse account (make sure to cancel it within 7 days) 
 	- Upload a completed screenshot to Slack
+	
+
+- - - - 
+
+## Class 12 - Twitter Part 2 - Explore Routing and Build Tweets Model/Controller
+
+###**Due 8/29/16**
+
+- Integrate all outstanding code into your team's app 
+	- Each team member create a branch named `YOUR_NAME_tweets_controller` 
+	- Add the code from [here](https://gist.github.com/shanebarringer/a2ad98ffd88e57a98c0fd3b5d535066a) to your branch
+
