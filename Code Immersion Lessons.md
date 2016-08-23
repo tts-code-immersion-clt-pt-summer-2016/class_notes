@@ -42,3 +42,5 @@
 [Associations in Rails](http://techtalentsouth.slides.com/techtalentsouth/atl-rails-associations-326?token=ag1SK_vt)
 
 [Twitter Part 1](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-1-431-509?token=nvQ1jTKC)
+
+[Twitter Part 2](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-2-434-510-847?token=hz0mbFK)
