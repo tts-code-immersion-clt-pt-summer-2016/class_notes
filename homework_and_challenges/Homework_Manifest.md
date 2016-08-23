@@ -194,7 +194,7 @@ Upload screenshots of your work on Slack.
 
 - - - - 
 
-## Class 13 - Twitter Part 2 - Explore Routing and Build Tweets Model/Controller
+## Class 13 - Twitter Part 2A - Explore Routing and Build Tweets Model/Controller
 
 ###**Due 8/29/16**
 
@@ -202,3 +202,11 @@ Upload screenshots of your work on Slack.
 	- Each team member create a branch named `YOUR_NAME_tweets_controller` 
 	- Add the code from [here](https://gist.github.com/shanebarringer/a2ad98ffd88e57a98c0fd3b5d535066a) to your branch
 
+- - - - 
+
+## Class 14 - Twitter Part 2B - Building out Tweet CRUD Actions and Model Validations
+
+###**Due 8/29/16**
+
+- Review the [slides](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-2-434-510-847?token=hz0mbFK) and make sure that you are caught up for Wednesday's class
+	- push completed code to our class GitHub org
