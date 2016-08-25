@@ -44,3 +44,5 @@
 [Twitter Part 1](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-1-431-509?token=nvQ1jTKC)
 
 [Twitter Part 2](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-2-434-510-847?token=hz0mbFK)
+
+[Twitter Part 3](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-2-434-510-857?token=9nvT9WuL)
