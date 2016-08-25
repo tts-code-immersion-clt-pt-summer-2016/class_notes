@@ -210,3 +210,14 @@ Upload screenshots of your work on Slack.
 
 - Review the [slides](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-2-434-510-847?token=hz0mbFK) and make sure that you are caught up for Wednesday's class
 	- push completed code to our class GitHub org
+
+- - - - 
+
+## Class 15 - Twitter Part 3 - Profiles, Relationships and Likes
+
+- Finish the Twitter clone
+	- User the [master copy](https://github.com/tts-code-immersion-clt-pt-summer-2016/quack) as a reference 
+	- slides can be found [here](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-fall-2015-twitter-part-2-434-510-857?token=9nvT9WuL)
+	- As you work through completing the App...
+		- write down any/all questions
+		- post them in Slack
