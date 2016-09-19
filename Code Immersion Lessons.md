@@ -1,4 +1,4 @@
-# Code Immersion Slides
+# Code Immersion Slides and Markdown
 
 ## Ruby
 [intro to Code Immersion](http://techtalentsouth.slides.com/techtalentsouth/clt-ft-introduction-250-574?token=OWs5HvBS)
