@@ -11,7 +11,7 @@
 
 - - - -
 
-## Class 2 - Ruby Loops, Arrays and Control Flow
+## Class 2 - Control Flow and Arrays
 
 ###**Due on 7/13/2016:**
 
